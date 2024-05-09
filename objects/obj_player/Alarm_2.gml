@@ -1,0 +1,1 @@
+self.canDash = true;
